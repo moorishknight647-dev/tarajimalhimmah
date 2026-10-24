@@ -1,13 +1,13 @@
 ---
-title: Imām Abū Ḥanīfa
+title: Imam Abu Hanifa (أبو حنيفة النعمان)
 tags:
-  - Tābiʿīn
-  - Ḥanafī
-  - Faqīh
-  - al-Kūfah
-  ---
+  - Tabi-un
+  - Kufah
+  - Faqih
+  - Imam-al-A-zam
+---
 
- # Imām Abū Ḥanīfa
+# Al-Imam al-A'zam Abu Hanifa
 
 * **Name:** al-Nuʿmān ibn Thābit ibn Zūṭā ibn Marzubān 
 * **Kunyah:** Abū Ḥanīfa
