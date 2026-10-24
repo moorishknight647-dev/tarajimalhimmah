@@ -1,14 +1,17 @@
 ---
-title: تراجم وائمة الهمة (Tarajim wa Aimatul Himmah)
+title: Tarājim al-Himmah
 ---
 
-# مرحبًا بكم في تراجم وائمة الهمة
+# Welcome to Tarājim al-Himmah
 
-This is a specialized biographical encyclopedia dedicated to the lives, lineages, reliability, and status of the Salaf, scholars of Hadith (*Muhaddithin*), and foundational Ulema. 
+This is a biographical encyclopedia dedicated to the lives, lineages, reliability, and status of the Salaf, scholars of Ḥadīth (Muḥaddithūn), ʿUlamāʾ, and Ruwāt.
 
-This portal serves as an interconnected database mapping out historical networks of knowledge, student-teacher chains, and *Jarh wa Ta'dil* verdicts.
+This portal serves as an interconnected database mapping out historical networks of knowledge, student–teacher chains, and al-Jarḥ wa-al-Taʿdīl.
 
-## Explore Categories
-* 🕌 **[[scholars/index|The Foundational Ulema & Imams]]**
-* 📜 **[[narrators/index|Hadith Transmitters (Rijal al-Hadith)]]**
-* 📖 **[[terms/index|Glossary of Jarh wa Ta'dil Grades]]**
+Explore Categories
+
+🕌 [[scholars/index|Aʾimmah]]
+
+📜 [[narrators/index|Ruwāt]]
+
+📖 [[terms/index|Definition of Terms]]
